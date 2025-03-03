@@ -1,0 +1,11 @@
+.font-hanken-grotesk {
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+.custom-text-2xs {
+    font-size: 0.625rem; /* 10px */
+}
+
+.black-background {
+    background-color: #060606;
+}
